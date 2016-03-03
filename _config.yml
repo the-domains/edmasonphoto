@@ -1,7 +1,7 @@
 name: edmasonphoto
 favicon: null
-layout_spectrum: 0.6926936209201813
-typography_spectrum: 0.7635467727668583
+layout_spectrum: 0.93099
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.25989486277103424
-  lightness: 0.14075886993668973
-  saturation: 0.9436858976259828
-  rhythmicContrast: 0.9003994725644588
+  brandStrength: 0.3125
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
